@@ -81,15 +81,15 @@
 
 Требуемый набор текстур:
 
-- Diffuse (альбедо) [использовать суффикс _co] — barak_roof_1_co
+- Diffuse (альбедо) [использовать суффикс _d] — barak_roof_1_d
 
-- Normals (16 бит, без альфа-канала) [использовать суффикс _nohq] — barak_roof_1_nohq
+- Normals (16 бит, без альфа-канала) [использовать суффикс _n] — barak_roof_1_n
 
 - Gloss/Roughness [использовать суффикс _gloss или _rough] - barak_roof_1_gloss
 
 - Specular [использовать суффикс _spec] — barak_roof_1_spec
 
-- Ambient Occlusion [использовать суффикс _as] — barak_ao
+- Ambient Occlusion [использовать суффикс _ao] — barak_ao
 
 16. Текстуры делать согласно требованиям по подготовке текстур под физически корректный рендеринг – PBR.
 
